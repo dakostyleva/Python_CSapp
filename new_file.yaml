@@ -1,0 +1,13 @@
+items_list:
+- milk
+- cookie
+- chocolate
+- bread
+- juice
+items_price:
+  bread: 40₽
+  chocolate: 70₽
+  cookie: 30₽
+  juice: 55₽
+  milk: 50₽
+items_quantity: 5
