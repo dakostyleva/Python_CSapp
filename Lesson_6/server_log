@@ -1,0 +1,9 @@
+data received
+Server response: {'action': 'presence', 'time': '2021-06-17 18:15:44', 'type': 'status', 'user': {'account_name': 'John Doe', 'status': 'Online'}}
+data received
+Server response: {'action': 'presence', 'time': '2021-06-17 18:32:46', 'type': 'status', 'user': {'account_name': 'John Doe', 'status': 'Online'}}
+data received
+Server response: {'action': 'presence', 'time': '2021-06-17 18:35:29', 'type': 'status', 'user': {'account_name': 'John Doe', 'status': 'Online'}}
+Функция createParser вызвана из функции main
+data received
+Server response: {'action': 'presence', 'time': '2021-06-17 18:38:14', 'type': 'status', 'user': {'account_name': 'John Doe', 'status': 'Online'}}

@@ -1,0 +1,11 @@
+2021-06-17 18:14:25,032 INFO server_DK data received
+2021-06-17 18:14:25,034 INFO server_DK Server response: {'action': 'presence', 'time': '2021-06-17 18:14:25', 'type': 'status', 'user': {'account_name': 'John Doe', 'status': 'Online'}}
+2021-06-17 18:15:44,565 INFO server_DK data received
+2021-06-17 18:15:44,566 INFO server_DK Server response: {'action': 'presence', 'time': '2021-06-17 18:15:44', 'type': 'status', 'user': {'account_name': 'John Doe', 'status': 'Online'}}
+2021-06-17 18:32:46,304 INFO server_DK data received
+2021-06-17 18:32:46,306 INFO server_DK Server response: {'action': 'presence', 'time': '2021-06-17 18:32:46', 'type': 'status', 'user': {'account_name': 'John Doe', 'status': 'Online'}}
+2021-06-17 18:35:29,457 INFO server_DK data received
+2021-06-17 18:35:29,457 INFO server_DK Server response: {'action': 'presence', 'time': '2021-06-17 18:35:29', 'type': 'status', 'user': {'account_name': 'John Doe', 'status': 'Online'}}
+2021-06-17 18:38:12,154 INFO decorator Функция createParser вызвана из функции main
+2021-06-17 18:38:14,579 INFO server_DK data received
+2021-06-17 18:38:14,579 INFO server_DK Server response: {'action': 'presence', 'time': '2021-06-17 18:38:14', 'type': 'status', 'user': {'account_name': 'John Doe', 'status': 'Online'}}

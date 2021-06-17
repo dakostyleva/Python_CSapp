@@ -1,0 +1,12 @@
+2021-06-17 18:14:25,038 INFO client_DK Message to server sent
+INFO:client_log:Message to server sent
+2021-06-17 18:14:25,039 INFO client_DK Server response: {'response': 200}
+INFO:client_log:Server response: {'response': 200}
+2021-06-17 18:15:44,565 INFO client_DK Message to server sent
+2021-06-17 18:15:44,566 INFO client_DK Server response: {'response': 200}
+2021-06-17 18:32:46,304 INFO client_DK Message to server sent
+2021-06-17 18:32:46,306 INFO client_DK Server response: {'response': 200}
+2021-06-17 18:35:29,457 INFO client_DK Message to server sent
+2021-06-17 18:35:29,459 INFO client_DK Server response: {'response': 200}
+2021-06-17 18:38:14,579 INFO client_DK Message to server sent
+2021-06-17 18:38:14,579 INFO client_DK Server response: {'response': 200}
